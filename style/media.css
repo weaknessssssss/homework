@@ -1,0 +1,26 @@
+@media (max-width: 1110px){
+
+}
+
+@media (max-width: 991.98px){
+    .about__img{
+        height: 900px;
+       
+    }
+       
+    
+
+    .about__descr{
+        display: flex;
+        flex-direction: column;
+        row-gap: 5px;
+    }
+
+}
+
+@media (max-width: 575.98px){
+    .about__img{
+        height: 900px;
+        width: 900px;
+    }
+}
